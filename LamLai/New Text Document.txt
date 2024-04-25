@@ -1,0 +1,1 @@
+trả về một con trỏ (int*) tới mảng chứa ba chữ số đã được sắp xếp theo thứ tự tăng dần.
